@@ -36,6 +36,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reynierhdez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reynier's GitHub Stats" />
 </a>
 
+## Social
+
+<img alt="Instagram" src="https://img.shields.io/badge/reynierhdez.me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img alt="Skype" src="https://img.shields.io/badge/reynierhdez-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+
 <!--
 **reynierhdez/reynierhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
