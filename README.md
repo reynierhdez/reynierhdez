@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
