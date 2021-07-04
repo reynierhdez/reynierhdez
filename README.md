@@ -31,6 +31,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=for-the-badge&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Google_Colab-informational?style=for-the-badge&logo=googlecolab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
