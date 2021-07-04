@@ -48,7 +48,7 @@
 ![](https://img.shields.io/badge/Skype-reynierhdez-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-reynierhdez-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [![](https://img.shields.io/badge/Discord-%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/E76SUenH)
-
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/vpEv3HJ)
 <!--
 **reynierhdez/reynierhdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
