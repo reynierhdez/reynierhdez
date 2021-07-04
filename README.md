@@ -3,6 +3,8 @@
 ## 🔧 Technologies and Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-NetBeans_IDE-informational?style=for-the-badge&logo=netbeans-ide&logoColor=white&color=2bbc8a)
@@ -13,7 +15,6 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Make-informational?style=for-the-badge&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tensorflow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node_JS-informational?style=for-the-badge&logo=node-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)
@@ -22,9 +23,13 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML_DL-Tensorflow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML_DL-Keras-informational?style=for-the-badge&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML_DL-Pytorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-LaTeX-informational?style=for-the-badge&logo=latex&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
