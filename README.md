@@ -21,7 +21,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/reynierhdez/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynierhdez&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynierhdez&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/reynierhdez/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reynierhdez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reynier's GitHub Stats" />
