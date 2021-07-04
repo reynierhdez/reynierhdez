@@ -22,9 +22,9 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML_DL-Tensorflow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML_DL-Keras-informational?style=for-the-badge&logo=keras&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML_DL-Pytorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-Tensorflow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-Keras-informational?style=for-the-badge&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-Pytorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
@@ -44,7 +44,7 @@
 
 ![](https://img.shields.io/badge/Instagram-reynierhdez.me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![](https://img.shields.io/badge/Skype-reynierhdez-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-reynierhdez-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/Discord-%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <!--
