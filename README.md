@@ -43,16 +43,16 @@
 <a href="https://github.com/reynierhdez/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynierhdez&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact&langs_count=8" />
 </a>
+
+<br/>
+
 <a href="https://github.com/reynierhdez/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=reynierhdez&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Reynier's GitHub Stats" />
 </a>
 
 ## Social
 
-![](https://img.shields.io/badge/Instagram-reynierhdez.me-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![](https://img.shields.io/badge/Skype-reynierhdez-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-reynierhdez-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[![](https://img.shields.io/discord/846861492380631062?style=for-the-badge&label=Discord&logo=Discord&colorB=7289da)](https://discord.gg/E76SUenH)
 
 
 <!--
